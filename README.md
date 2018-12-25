@@ -7,7 +7,7 @@
   - Eureka
   - Feign
 + Spring Security
-+ Spring Security OAuth2
+  - Spring Security OAuth2
 + Thymeleaf
 + Lombok
 + Guava
